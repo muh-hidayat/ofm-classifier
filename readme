@@ -1,1 +1,7 @@
-source code of ofm classifier
+source code ofm classifier
+
+link datasets untuk training :
+- https://drive.google.com/drive/folders/1qc7JRosUcSiwwm5y77GXwk5cD3m2AYfW?usp=drive_link
+
+simpan dataset pada path berikut :
+/ofm-classifier/facemask-train/datasets
